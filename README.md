@@ -29,7 +29,7 @@ ex) <br>
 
 # 실습 2번문제 
  완벽한 TextCard를 만들었지만 여백이 부족해 더 적지 못했습니다! 여러분은 여백이 많으시니 완벽한 TextCard를 만들어주세요!
-<img width="863" alt="image" src="https://user-images.githubusercontent.com/77886826/166138625-13a04e04-0caa-4ee7-8999-f378ee918e18.png">
+ <img width="861" alt="image" src="https://user-images.githubusercontent.com/77886826/166139365-fb1bb6b2-4088-4a66-9c05-6f1a4f18a535.png">
 
 이쁘게 만들어 주시리라 믿습니다...!! 
 
@@ -59,5 +59,6 @@ ex) <br>
 - 실습의 각 문제마다 스크린샷을 포함합니다.
 - pr 의 제목은 | [내이름] 제목 |으로 합니다.
 ex) [이성인] 리엑트는 너무 재밋어!
+
 
 
