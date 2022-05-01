@@ -28,15 +28,23 @@ ex) <br>
 
 
 # 실습 2번문제 
- 완벽한 TextCard를 만들었지만 여백이 부족해 더 적지 못했습니다! 여러분은 여백이 많으시니 완벽한 TextCard를 만들어주세요!
- <img width="861" alt="image" src="https://user-images.githubusercontent.com/77886826/166139365-fb1bb6b2-4088-4a66-9c05-6f1a4f18a535.png">
-
-이쁘게 만들어 주시리라 믿습니다...!! 
+ 색을 입력하면 바로 색이 나오는 다음과 같은 카드를 만들어 보고 싶었습니다. 제한된 조건 속에서 진행해 주시길 바랍니다!!
+ <img width="366" alt="image" src="https://user-images.githubusercontent.com/77886826/166141001-f3964a02-e290-4a8f-bc6e-ce94962f1b36.png">
+<br>현재 사진입니다! 아래와 같게 만들어주세요!
+ ### 목표)
+<img width="314" alt="image" src="https://user-images.githubusercontent.com/77886826/166140624-39232d3e-becb-45c9-826c-e42b3698f61e.png">
+<img width="336" alt="image" src="https://user-images.githubusercontent.com/77886826/166140681-4c28bf65-0107-4aae-989e-be71e8e176b5.png">
+<img width="335" alt="image" src="https://user-images.githubusercontent.com/77886826/166140718-0a4599f1-6b4b-4048-8239-685a207fc5f1.png">
+<img width="396" alt="image" src="https://user-images.githubusercontent.com/77886826/166140696-26ece472-220b-450f-90cf-37ac346ee8de.png">
+<br>
+다음과 같이 입력 받습니다.
 
 ### 제한조건 
- - TextCard 내부정렬
- - TextCard 내부의 Text , Button등의 Props들 또한 TextCard가 입력받아서 관리합니다.
- - 이쁘게 만들어보세요! 당신의 감각을 믿습니다.
+
+ - 빈칸을 채워 다음 사진과 같게 구현합니다!
+ - ColorCard들 사이 간격은 10px 로 합니다.
+ - ColorCard를 5개 이상 구현합니다. 
+
 
 # 실습 3번문제
  대망의 끝판왕 MediaCard 컴포넌트를 제작합니다!
