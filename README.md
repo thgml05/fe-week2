@@ -22,7 +22,7 @@ react는 크게 어렵지 않습니다! 다같이 열심히 하시죠 ㅎㅎ
  
 ex) <br>
 <img width="538" alt="image" src="https://user-images.githubusercontent.com/77886826/166138795-c60b1f82-9cd7-47fb-835a-04c6e0a4b02b.png"><br>
-현재 상태입니다.
+현재 상태입니다.<br>
 <img width="663" alt="image" src="https://user-images.githubusercontent.com/77886826/166138831-708166b3-5251-4956-ba19-f617085ce97e.png"><br>
 다음과 같이 입력받을 때 font-weight, font-size 등이 수정되도록 바꾸어 주세요
 
