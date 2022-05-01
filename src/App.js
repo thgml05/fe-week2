@@ -4,11 +4,7 @@ import TextCard from "./component/TextCard";
 function App() {
   return (
     <>
-      <Text color="blue">"hihi"</Text>
-      <Button backgroundColor="red" color="black">
-        hihi
-      </Button>
-      <TextCard text="이성인" button="hihi" />
+      <TextCard text="이게 TextCard...?" button="click" />
     </>
   );
 }
