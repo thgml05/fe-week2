@@ -15,7 +15,7 @@ function App() {
       <ColorCard color="#C4DDFF" />
       <ColorCard color="#F9FFA4" />
       <MediaCard
-        url="dog.jpg"
+        url="po.jpg"
         title="Pomeranian"
         text="귀여운 포메 등장~!!"
         color="#205375"
