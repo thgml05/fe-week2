@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-// 큰 박스
+// 큰 박스 스타일 지정
 const CardWrapper = styled.div`
   width: 300px;
   height: 430px;
@@ -11,7 +11,7 @@ const CardWrapper = styled.div`
   //
 `;
 
-// 작은 박스
+// 작은 박스 스타일 지정
 const ColorWrapper = styled.div`
   height: 350px;
   border: 1px solid black;
@@ -21,6 +21,7 @@ const ColorWrapper = styled.div`
   //
 `;
 
+// 색 텍스트 스타일 지정
 const ColorText = styled.div`
   display: flex;
   justify-content: center;

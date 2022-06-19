@@ -5,15 +5,20 @@ import MediaCard from "./component/MediaCard";
 function App() {
   return (
     <>
+      {/* Hello 텍스트 부분 */}
+      {/* 텍스트 색, 폰트 굵기, 폰트 사이즈 전달 */}
       <Text color="blue" fontWeight="400" fontSize="16">
         Hello{" "}
       </Text>
-      {/* 화면 박스 2개 색 지정 */}
+      {/* 색 박스 부분 5개 */}
+      {/* 박스 색 전달 */}
       <ColorCard color="black" />
       <ColorCard color="#1E82CD" />
       <ColorCard color="#FFAAFF" />
       <ColorCard color="#C4DDFF" />
       <ColorCard color="#F9FFA4" />
+      {/* 미디어카드 부분 5개 */}
+      {/* 미디어카드 내의 사진, 제목, 내용, 버튼 색 전달 */}
       <MediaCard
         url="po.jpg"
         title="Pomeranian"

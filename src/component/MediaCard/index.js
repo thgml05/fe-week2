@@ -2,6 +2,7 @@
 import React from "react";
 import styled from "styled-components";
 
+// 전체 MediaCard 박스 스타일 지정
 const Card = styled.div`
   border: 1px solid black;
   width: 250px;
@@ -14,7 +15,7 @@ const Card = styled.div`
   margin-bottom: 10px;
 `;
 
-//img
+// 이미지 박스 스타일 지정
 const Image = styled.div`
   background-image: url(${(props) => props.url});
   width: 130px;
@@ -24,11 +25,13 @@ const Image = styled.div`
   background-size: cover;
 `;
 
+// title + text 박스 스타일 지정
 const TextBox = styled.div`
   width: 250px;
   text-align: left;
 `;
 
+// 제목 박스 스타일 지정
 const Title = styled.div`
   font-weight: bold;
   font-size: 20px;
@@ -36,6 +39,7 @@ const Title = styled.div`
   margin-bottom: 10px;
 `;
 
+// 내용 박스 스타일 지정
 const Text = styled.div`
   color: gray;
   margin-left: 20px;
@@ -43,7 +47,8 @@ const Text = styled.div`
   font-size: 12px;
 `;
 
-const Btn = styled.button`
+// Action 버튼 스타일 지정
+const Button = styled.button`
   width: 230px;
   padding: 10px;
   border-radius: 20px;
@@ -60,7 +65,7 @@ const MediaCard = (props) => {
         <Title>{props.title}</Title>
         <Text>{props.text}</Text>
       </TextBox>
-      <Btn color={props.color}>Action</Btn>
+      <Button color={props.color}>Action</Button>
     </Card>
   );
 };
